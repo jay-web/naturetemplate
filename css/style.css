@@ -68,8 +68,8 @@ body {
 
 .heading-primary-main {
     display: block;
-    font-size: 6rem;
     font-weight: 400;
+    font-size: 9rem;
     letter-spacing: 3.5rem;
     animation: moveFromLeft 1s ease-out;
 }
